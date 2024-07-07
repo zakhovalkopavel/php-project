@@ -6,6 +6,8 @@ This is a skeleton for creating new dockerized project.
 
 For starting project you need to have installed docker and docker compose.
 
+Before building rename and config .env.example to .env
+
 Building commands:
     make restart laravel-init
 
